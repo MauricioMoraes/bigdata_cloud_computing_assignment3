@@ -1,0 +1,21 @@
+# Compiling
+
+mkdir java_classes
+javac -cp /usr/lib/hadoop/*:/usr/lib/hadoop/client-0.20/* -d java_classes Sentiment.java
+jar -cvf sentiment.jar -C java_classes/ .
+
+
+# Putting input in HDFS
+hadoop fs -mkdir /user/cloudera/sentiment
+hadoop fs -mkdir /user/cloudera/sentiment/input
+hadoop fs -put tweet_data /user/cloudera/sentiment/input
+
+
+# Running Hadoop
+hadoop jar sentiment.jar edu.columbia.hs2807.Sentiment /user/cloudera/sentiment/input /user/cloudera/sentiment/output
+
+
+# Cleaning output
+hadoop fs -get /user/cloudera/sentiment/output
+hadoop fs -rm -r /user/cloudera/sentiment/output
+rm -rf output

@@ -1,0 +1,202 @@
+@eu - aaaaaaaateste_aaaaaaaaabteste123__aaaaaaaaaacteste
+pr 24 22:41:08 UTC 2014]Establishing connection.
+[Thu Apr 24 22:41:11 UTC 2014]Connection established.
+[Thu Apr 24 22:41:11 UTC 2014]Receiving status stream.
+[Thu Apr 24 22:41:11 UTC 2014]Unhandled event: {"disconnect":{"code":2,"stream_name":"sergmor&mjc2IDFZEALQV1Kof6KRBeunD-statuses7371292816857161342","reason":"duplicate of sergmor&5q86uVVuu1f9iVfKWf4Brg-statuses7371301114851417223"}}
+[Thu Apr 24 22:41:11 UTC 2014]Stream closed.
+Stream closed.
+Relevant discussions can be found on the Internet at:
+	http://www.google.co.jp/search?q=a8fd061d or
+	http://www.google.co.jp/search?q=00070a0c
+TwitterException{exceptionCode=[a8fd061d-00070a0c a8fd061d-0007099a], statusCode=-1, message=null, code=-1, retryAfter=-1, rateLimitStatus=null, version=3.0.5}
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:199)
+	at twitter4j.StatusStreamImpl.next(StatusStreamImpl.java:57)
+	at twitter4j.TwitterStreamImpl$TwitterStreamConsumer.run(TwitterStreamImpl.java:478)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:116)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:154)
+	at java.io.BufferedReader.readLine(BufferedReader.java:317)
+	at java.io.BufferedReader.readLine(BufferedReader.java:382)
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:85)
+	... 2 more
+[Thu Apr 24 22:41:11 UTC 2014]Stream closed.
+Stream closed.
+Relevant discussions can be found on the Internet at:
+	http://www.google.co.jp/search?q=a8fd061d or
+	http://www.google.co.jp/search?q=00070a0c
+TwitterException{exceptionCode=[a8fd061d-00070a0c a8fd061d-0007099a], statusCode=-1, message=null, code=-1, retryAfter=-1, rateLimitStatus=null, version=3.0.5}
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:199)
+	at twitter4j.StatusStreamImpl.next(StatusStreamImpl.java:57)
+	at twitter4j.TwitterStreamImpl$TwitterStreamConsumer.run(TwitterStreamImpl.java:478)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:116)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:154)
+	at java.io.BufferedReader.readLine(BufferedReader.java:317)
+	at java.io.BufferedReader.readLine(BufferedReader.java:382)
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:85)
+	... 2 more
+[Thu Apr 24 22:41:11 UTC 2014]Waiting for 250 milliseconds
+[Thu Apr 24 22:41:11 UTC 2014]Establishing connection.
+[Thu Apr 24 22:41:12 UTC 2014]Connection established.
+[Thu Apr 24 22:41:12 UTC 2014]Receiving status stream.
+@Miicadezeo - no se re sarpa el pibe ajjajajajaj
+@Thejokerman_ - puto/bolado
+@NunuBhadDoe - Had To Make A Couple Bands By My Lonely
+@gwennruuqq - teamfollowback
+He who laughs last didnt get it. teamfollowback
+@heyThalys - prepara Brasil,pq essa copa n vai ser boa
+@MMasonXXX - Your tattoos are are truly the hottest ones i've ever seen on anyone - which one was y... — My cross on my left arm http://t.co/YfqjQOuVxU
+@UHOOPSDOTCOM - Nets GM Billy King told NBA TV his decision to reassign assistant coach Lawrence Frank to doing reports (ESPN) http://t.co/9uxC3jgjsV #...
+@kasiklanutella - Whatsappa senin için girmiyor, o tweetleri de senin için atm?yor. Kand?rmayal?m birbirimizi
+@VzlArtenCanaria - RT @RunRunesWeb: CIDH: Inseguridad atenta contra los derechos de los venezolanos - http://t.co/5K3QYFM41D
+@CheetosCalum - ? ? ? ? ? ? 
+hi calum hood from 5sos 
+i love you
+if you see this will you please 
+follow me? 
+@Calum5SOS 
+? ? ? ? ? ? x
+@bubwal - @SianWeather c'mon Sian. Weekend in Pembrokeshire for me. First time in years. Sort it out please. Pretty please.
+@evalabella - RT @TransparenciaLS: Orquesta Sinfónica Los Salias celebra su aniversario con conciertos http://t.co/SL3ImQBExP
+@memezarka - ?????... ??? ??? ??? ???????? ??????? .. http://t.co/LaQDWpM7xj
+@thebuggles1 - "I feel like punching the boss' jaw again  ""Did you say again?"" ""Yes, I felt like doing it once before today!"""
+@MediaTVProduct - "BAZNESS la nouvelle pub de la bière Tunisienne BERBER" : http://t.co/BTEJCGXeBW via @YouTube
+@xheydrew - RT @jdbseverythjng: “@RoraMckinnon: #JustinComeToItaly ma anche no. Ne facciamo volentieri a meno ;)” grazie perché c'aiutate lo stesso ? #…
+@JBswagonyou - RT @walkinthestar: la semana que viene va a ser un caos
+@Aero_vs_Aaron - ???- hmu some times don't be fake ? can get to know each other
+@FataleGyal - RT @Constance_972: Être au téléphone le soir ? .
+@cosmiCllll - 1???2? 3???4?
+@jaynoz11 - RT @Goody70: However much I'd enjoy it I can't see oasis getting back together as soon as people are saying...
+@iCarly_BRnick - @LoverTaques ???
+@rik_pg - ???????????????????????????
+@PatriciaLazca - Europa League Benfica y Sevilla se acercan a la Final http://t.co/ev3PDb7i5N
+@QPassing - RT @sssDoes: ????????
+????????????????????????????????????????
+
+?????????
+????????????????????????????????????????????????????????
+@thecolorlaura - @Rachael_Noone95 SHIT IT'S DSTOUT
+@3388Asd - RT @ptk: ???? ????? ?????? ??? ??????? (?????&????)?????? ????? ?????? ?? ???? ??? ??????? ?????? ?? 
+0552333324 
+
+http://t.co/M1Gl8q180E
+5…
+@HallingGeorge - RT @TooMessedUp: Africans have the best drinking games. Like, "The last one to find water dies"...
+[Thu Apr 24 22:41:13 UTC 2014]Stream closed.
+Stream closed.
+Relevant discussions can be found on the Internet at:
+	http://www.google.co.jp/search?q=a8fd061d or
+	http://www.google.co.jp/search?q=00070a0c
+TwitterException{exceptionCode=[a8fd061d-00070a0c a8fd061d-0007099a], statusCode=-1, message=null, code=-1, retryAfter=-1, rateLimitStatus=null, version=3.0.5}
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:199)
+	at twitter4j.StatusStreamImpl.next(StatusStreamImpl.java:57)
+	at twitter4j.TwitterStreamImpl$TwitterStreamConsumer.run(TwitterStreamImpl.java:478)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:116)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:154)
+	at java.io.BufferedReader.readLine(BufferedReader.java:317)
+	at java.io.BufferedReader.readLine(BufferedReader.java:382)
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:85)
+	... 2 more
+[Thu Apr 24 22:41:13 UTC 2014]Stream closed.
+Stream closed.
+Relevant discussions can be found on the Internet at:
+	http://www.google.co.jp/search?q=a8fd061d or
+	http://www.google.co.jp/search?q=00070a0c
+TwitterException{exceptionCode=[a8fd061d-00070a0c a8fd061d-0007099a], statusCode=-1, message=null, code=-1, retryAfter=-1, rateLimitStatus=null, version=3.0.5}
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:199)
+	at twitter4j.StatusStreamImpl.next(StatusStreamImpl.java:57)
+	at twitter4j.TwitterStreamImpl$TwitterStreamConsumer.run(TwitterStreamImpl.java:478)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:116)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:154)
+	at java.io.BufferedReader.readLine(BufferedReader.java:317)
+	at java.io.BufferedReader.readLine(BufferedReader.java:382)
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:85)
+	... 2 more
+[Thu Apr 24 22:41:13 UTC 2014]Waiting for 250 milliseconds
+@Yoongnah - imy
+@Hendrix_Yopli - Enfrentamientos dejan 7 muertos en Tamaulipas http://t.co/SmWNVZra85
+@mynamesmadeline - RT @xgiannax_: @mynamesmadeline lmfao ? that's like my brother
+@al_njajary - RT @HisyamDot_ID: You are my biggest motivation to get up in the early morning.
+@ValenApestey - RT @camiandriani: me acuerdo cuando me dijo que parecia un angel con las chicas nos miramos y nos reimos abusoo
+@SEI_Mikey - Mark Bell is back up and pulling 1.5 meg down and 0.30 upload
+@________MKC - RT @BlasianJas: ?? http://t.co/drTpqvIJek
+@chungstyIes - RT @yeezustins: @chungstyIes here are the times also just in case you wanted to know http://t.co/TwYUm5PGSg
+[Thu Apr 24 22:41:13 UTC 2014]Establishing connection.
+@zcquintela - good friends lng ba? or very good friends? :) — Very good friends. Hahaha! http://t.co/3C8LTHbhpg
+@JC_paradaisu - RT @adidas_fanfan: ????adidas?????
+
+http://t.co/hpw741amFB
+@bestlarry98 - RT @LookAfterYou17: Caro Diario,
+mi si spezza il cuore ogni volta che trovo una fan su twitter che mi chiede di seguirla.
+Un giorno vi segu…
+@NAHUUHPATERNOST - RT @violeisenmeier: @NAHUUHPATERNOST JAJAJAJAJAJAJ si, por gil ahq
+bueno, vos espias chicas, y yo espio chicos(?
+con los diaros JAAJAJJAJAJ…
+@hoshi_oto517 - @taro_0713 ??(´?_?`)
+?????????
+@ypapak - @1332chan 
+????????????????????^_^;
+?????????
+@youOTTEknow - Dinkers for dinner. Best burger in town
+@mberrres - @rayrayrud @KayPfef idk your phone is messed up Rachel
+@itsmichelli_yo - RT @highheel_porn: http://t.co/06vPA5XgYu
+@SarcasticBittch - Well its kinda true if you see #15 and #21 http://t.co/2DUl7gzqkK @SarcasticBittch
+@jor_rosania - Very good news about my young friend Guillermo. With your help he found a bone marrow donor!! http://t.co/Mz1QwDBQK9
+[Thu Apr 24 22:41:14 UTC 2014]Unhandled event: {"disconnect":{"code":2,"stream_name":"sergmor&mjc2IDFZEALQV1Kof6KRBeunD-statuses7371300548888810375","reason":"duplicate of sergmor&BWGYiRF3qE71gKoX6le3Ue5jK-statuses7371301879540145800"}}
+[Thu Apr 24 22:41:14 UTC 2014]Connection established.
+[Thu Apr 24 22:41:14 UTC 2014]Receiving status stream.
+@RiveraVvpp - He recogido 1 Perg.... ¿Puedes superarme? ¡Descarga el juego y demuéstralo! http://t.co/4jvUIPKt5B #android,#androidgames,#gameinsight
+@_kadirkocak - Canon 5D Mark 2 çok iyi amk
+@_CindeRELLLa - @IamKing_AC apples to oranges babe
+@Kcerro76 - Just want someone to give me a hug
+@pethalaa - só arranjas confusões, natas do céu
+@21Noha - ?????? ????? ???? ????? ?
+@qwertt107 - @falh1388 ???? ????
+@x_highoffLETTAA - RT @DreadHeadAnt: New Impressionz Fuckin Crank Idgaf What ANYONE Says ???
+@Mlcr07 - RT @NiallsNotes: Foto de los chicos ensayando en la prueba de sonido en el estadio El Campin. #NiallsNotes http://t.co/IWCVwzO9ga
+@brucey_bugatti - RT @JustinMurray_: I lost alot of friends and they not even dead
+@laurafnadeau - Just realized that Kilimanjaro is a little over four months away... I think it might be time to start some serious training.
+@Maaribrandao_ - @marianabraz_ Agora não kkkkkkkk ai q vergonhaaa
+@SaraElizabeth_4 - Can something interesting happen now??
+@_jessou - RT @Houstaf: Constitution des Sons a JUL  :
+50% D'autothune
+50% de Merde
+0% de Lyrics
+0% de PunchLine 
+
+#JaiMalAuRap #JUL #CestLaHessCommeZ…
+@isntdave - @ChrisDarby89 ouch :( devon was just a super last minute thing over the bank holiday, I don't swan around for fun in the week (much)
+@porradessa - @AdiosGui E humilde ?
+@linda_rbs - RT @tomhall_photo: Share this tweet and the law of attraction will reward you. Ha, just kidding - it won't, but it might reward me ;) http:…
+@LaloArgaaraz - RT @_LegitMutCops_: @Eminem_of_MUT @_bucsfan4life_ yea I know just realized that refollowed u
+@KaiTakumikai3 - @kiki_020507 
+???????????????
+@Firerflis - Que fastidio querer ver una película y que el internet se ponga estúpido.
+@Nasser_A93 - RT @_hope7: ?? http://t.co/e9FrWmrZvH
+

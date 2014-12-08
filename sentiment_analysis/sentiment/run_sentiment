@@ -1,0 +1,9 @@
+hadoop fs -rm -r /user/cloudera/sentiment/output
+rm -rf output
+
+rm -rf java_classes/*
+javac -cp /usr/lib/hadoop/*:/usr/lib/hadoop/client-0.20/* -d java_classes Sentiment.java
+jar -cvf sentiment.jar -C java_classes/ .
+
+hadoop jar sentiment.jar edu.columbia.hs2807.Sentiment /user/cloudera/sentiment/input /user/cloudera/sentiment/output
+hadoop fs -get /user/cloudera/sentiment/output

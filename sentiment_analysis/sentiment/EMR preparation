@@ -1,0 +1,2 @@
+JAR location:	s3://jhm-assignment3/sentiment.jar	
+Arguments:		edu.columbia.hs2807.Sentiment s3://jhm-assignment3/input s3://jhm-assignment3/sentiment_output

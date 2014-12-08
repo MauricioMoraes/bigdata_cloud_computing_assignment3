@@ -1,0 +1,91 @@
+
+#login_button {
+	transition: all 0.3s ease 0s;
+}
+#login_button:hover {
+	transform: scale(1.05);
+}
+
+#home_jumbotron{
+	margin-bottom: 0px;
+	border-radius: 12px;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+
+#login_signup_forms .login_signup_form {
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 48px;
+	background-color: #6f5499;
+	background-image: linear-gradient(to bottom, #ccc 0,#aaa 100%);
+}
+
+#login_signup_forms .login_signup_form form {
+	margin-bottom: 0px;	
+}
+
+#login_signup_forms .panel {
+	margin: 0px;
+	box-shadow: none;
+	border: 0px;
+}
+
+.link-blue {
+	color: #2a6496;
+}
+
+#map {
+	height: 80%;
+}
+
+div#wordcloud span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+div#wordcloud span.w10 { font-size: 550%; color: #3B689D;}
+div#wordcloud span.w9 { font-size: 500%; color: #A13D3A;}
+div#wordcloud span.w8 { font-size: 450%; color: #69A53E;}
+div#wordcloud span.w7 { font-size: 400%; color: #a060A4;}
+div#wordcloud span.w6 { font-size: 350%; color: #3D96AE;}
+div#wordcloud span.w5 { font-size: 300%; color: #DB843D;}
+div#wordcloud span.w4 { font-size: 250%; color: #c08080;}
+div#wordcloud span.w3 { font-size: 200%; color: #b09f60;}
+div#wordcloud span.w2 { font-size: 150%; color: #B5CA92;}
+div#wordcloud span.w1 { font-size: 105%; color: #aab5f0;}
+
+div#positive-wordcloud span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+div#positive-wordcloud span.w10 { font-size: 500%; color: #89A54E;}
+div#positive-wordcloud span.w9 { font-size: 450%; color: #89A54E;}
+div#positive-wordcloud span.w8 { font-size: 400%; color: #92AB5B;}
+div#positive-wordcloud span.w7 { font-size: 350%; color: #9BB269;}
+div#positive-wordcloud span.w6 { font-size: 300%; color: #A4B976;}
+div#positive-wordcloud span.w5 { font-size: 250%; color: #ADC084;}
+div#positive-wordcloud span.w4 { font-size: 200%; color: #B6C792;}
+div#positive-wordcloud span.w3 { font-size: 150%; color: #BFCE9F;}
+div#positive-wordcloud span.w2 { font-size: 105%; color: #C8D5AD;}
+div#positive-wordcloud span.w1 { font-size: 100%; color: #D1DCBA;}
+
+div#negative-wordcloud span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+div#negative-wordcloud span.w10 { font-size: 500%; color: #AA4643;}
+div#negative-wordcloud span.w9 { font-size: 450%; color: #AA4643;}
+div#negative-wordcloud span.w8 { font-size: 400%; color: #B05451;}
+div#negative-wordcloud span.w7 { font-size: 350%; color: #B7625F;}
+div#negative-wordcloud span.w6 { font-size: 300%; color: #BD706E;}
+div#negative-wordcloud span.w5 { font-size: 250%; color: #C47E7C;}
+div#negative-wordcloud span.w4 { font-size: 200%; color: #CA8D8B;}
+div#negative-wordcloud span.w3 { font-size: 150%; color: #D19B99;}
+div#negative-wordcloud span.w2 { font-size: 105%; color: #D7A9A8;}
+div#negative-wordcloud span.w1 { font-size: 100%; color: #DEB7B6;}
+
