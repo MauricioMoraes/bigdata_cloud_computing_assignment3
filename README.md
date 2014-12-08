@@ -21,11 +21,11 @@ Team:
 # Screenshots
 
 ## General Trends
-<img src="https://docs.google.com/drawings/d/1-0kpVn2jIirdW8jG7xQCRI334B91HLugAx7gGbPflwc/pub?w=960&amp;h=720">
+<img src="https://raw.githubusercontent.com/hsgubert/bigdata_cloud_computing_assignment3/master/general_trends.png">
 
 ## Positive/Negative Trends
-<img src="https://docs.google.com/drawings/d/1-0kpVn2jIirdW8jG7xQCRI334B91HLugAx7gGbPflwc/pub?w=960&amp;h=720">
+<img src="https://raw.githubusercontent.com/hsgubert/bigdata_cloud_computing_assignment3/master/positive_negative_trends.png">
 
 ## Sentiment Timeseries
-<img src="https://docs.google.com/drawings/d/1-0kpVn2jIirdW8jG7xQCRI334B91HLugAx7gGbPflwc/pub?w=960&amp;h=720">
+<img src="https://raw.githubusercontent.com/hsgubert/bigdata_cloud_computing_assignment3/master/sentiment_timeseries.png">
 
