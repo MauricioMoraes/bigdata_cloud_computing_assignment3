@@ -6,6 +6,8 @@ Team:
 * Henrique Spyra Gubert - hs2807 
 * Radu Michael Moldoveanu - rmm2231
 
+**NOTE**: We implemented the analytics to see how sentiment evolves over time for extra points.
+
 # Contents
 
 * **web_interface**: web application to show all analytics
