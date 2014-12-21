@@ -1,6 +1,9 @@
 Big Data and Cloud Computing - Assignment 3
 ====================
 
+Site:
+http://jhm-assignment.elasticbeanstalk.com/home
+
 Team:
 * Juliana Louback - jl4354
 * Henrique Spyra Gubert - hs2807 
