@@ -13,15 +13,15 @@ Team:
 
 # Contents
 
-* **web_interface**: web application to show all analytics
-* **sentiment_analysis**: folder with the map reduce programs to extract trends and sentiment timeseries
-* **find_top_trends**: java program to process map reduce job output and prepare for visualization
-* **find_top_positive_and_negative_keywords**: java program to process map reduce job output and prepare for visualization
-* **merge_sentiment_timeseries**: java program to process map reduce job output and prepare for visualization
-* **copy_tweet_data**: program to transfer tweet raw data to our bucket
-* **s3_simple_reader**: program to output first lines of file in S3 without downloading it
-* **Tomcat**: folder where Tomcat is installed, so the whole assignment is auto-contained
-* **Servers**: eclipse servers for testing and debugging locally
+* **web_interface**: web application to show all analytics.
+* **sentiment_analysis**: folder with the map reduce programs to extract trends and sentiment timeseries.
+* **find_top_trends**: java program to process map reduce job output and prepare for visualization.
+* **find_top_positive_and_negative_keywords**: java program to process map reduce job output and prepare for visualization.
+* **merge_sentiment_timeseries**: java program to process map reduce job output and prepare for visualization.
+* **copy_tweet_data**: program to transfer tweet raw data to our bucket.
+* **s3_simple_reader**: program to output first lines of file in S3 without downloading it.
+* **Tomcat**: folder where Tomcat is installed, so the whole assignment is auto-contained.
+* **Servers**: eclipse servers for testing and debugging locally.
 
 # Screenshots
 
